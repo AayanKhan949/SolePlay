@@ -21,6 +21,7 @@ This tiny tuny game has 8 touch sensors, followed by 8 solenoids on it's frond a
 <img width="822" height="490" alt="soleplau" src="https://github.com/user-attachments/assets/24039ff2-456f-472c-9ef5-63e26244afe1" />
 
 # Zine Page : 
+<img width="1410" height="2000" alt="SolePlay (1)" src="https://github.com/user-attachments/assets/c885df89-0036-444c-a504-bdab4d37aa26" />
 
 
 
